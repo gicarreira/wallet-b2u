@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <filter id="Retângulo_91" x="0" y="0" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.294"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_980" data-name="Grupo 980" transform="translate(4.5 -85.5)">
+    <g transform="matrix(1, 0, 0, 1, -4.5, 85.5)" filter="url(#Retângulo_91)">
+      <rect id="Retângulo_91-2" data-name="Retângulo 91" width="40" height="40" rx="5" transform="translate(22.5 17.5)" fill="#050f7d"/>
+    </g>
+    <path id="Caminho_915" data-name="Caminho 915" d="M2295.582,3062.839l-4.14-4.139,4.14-4.14a1.427,1.427,0,0,0-2.018-2.018l-5.149,5.149a1.449,1.449,0,0,0,0,2.018l5.149,5.149a1.427,1.427,0,1,0,2.018-2.019Z" transform="translate(-2254.999 -2935.7)" fill="#fff"/>
+  </g>
+</svg>
